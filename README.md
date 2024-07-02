@@ -7,6 +7,9 @@
 - 📊 Partitioning: The app provides a table to display your users, with columns for ID, Full Name, joined At, Phone Number, and city.
 - 🔀 Sorting: You can sort the table by Full Name.
 - 🔍 Search: You can use the search bar to filter the results based on Full Name, Phone Number, or Address.
+- 🎨 beautiful landing page && Custom artwork included
+- ⌨️ 100% written in TypeScript
+
 
 ## Technology Highlights
 
@@ -14,7 +17,13 @@
 - 🛠️ **Styling**: Styled with TailwindCSS for a clean and responsive design.
 - 📡 **API Integration**: Communicates with the MockAPI API to fetch user data.
 - This project is built using TypeScript for type safety
+  
 ## Usage
+To get started with this project, run
+
+```bash
+  git clone https://github.com/KhalilKrugerOS/Digivue.git
+```
 
 1. 🌐 API Setup:  MockAPI does not need credentials.
 2. 🚀 Start the App: Run the app by executing the `npm run dev` or `yarn dev` command.
