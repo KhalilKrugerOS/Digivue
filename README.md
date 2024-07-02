@@ -1,4 +1,6 @@
 # User Monitoring App
+![image](https://github.com/KhalilKrugerOS/Digivue/assets/86251644/85a366a0-358e-4c0a-997a-02bd1716188a)
+
 
 👋 Welcome to the User Monitoring App! This app allows you to monitor your users from the MockAPI API.
 
